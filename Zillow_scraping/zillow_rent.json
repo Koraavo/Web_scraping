@@ -1,0 +1,1576 @@
+[
+  {
+    "Address": "STEELWORKS | 1220 Mecaslin St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,288+ 1 bd",
+      "$2,025+ 2 bds",
+      "$2,934+ 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISmywqsyv414bj0000000000.jpg"
+  },
+  {
+    "Address": "853 Ponce De Leon Pl NE, Atlanta, GA 30306",
+    "Price": "$3,600/mo",
+    "Details": [
+      "3 bds",
+      "2 ba",
+      "1,900 sqft"
+    ],
+    "Images": "NA"
+  },
+  {
+    "Address": "Avana Lenox | 925 Canterbury Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,171+ 1 bd",
+      "$1,488+ 2 bds",
+      "$2,087+ 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/IS7m4snc19vqt30000000000.jpg"
+  },
+  {
+    "Address": "32Hundred Lenox | 3200 Lenox Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,219+ 1 bd",
+      "$1,499+ 2 bds",
+      "$2,099+ 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISbxvbjhnbss1t1000000000.jpg"
+  },
+  {
+    "Address": "The Aster Buckhead | 2900 Pharr Ct S, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,320+ 1 bd",
+      "$1,541+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/IS3z7s6geu5z4w0000000000.jpg"
+  },
+  {
+    "Address": "Camden Phipps | 700 Phipps Blvd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,329+ 1 bd",
+      "$1,749+ 2 bds",
+      "$3,259 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/IS37ajzgshj5qh1000000000.jpg"
+  },
+  {
+    "Address": "252 Sydney St SE, Atlanta, GA 30312",
+    "Price": "$3,450/mo",
+    "Details": [
+      "4 bds",
+      "2 ba",
+      "2,150 sqft"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/IS3bt0dvyzt49w0000000000.jpg"
+  },
+  {
+    "Address": "Aspire Westside | 900 Joseph E Lowery Blvd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,345+ Studio",
+      "$1,520+ 1 bd",
+      "$1,960+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISj3ecn15hxalr0000000000.jpg"
+  },
+  {
+    "Address": "Generation | 369 Centennial Olympic Park Dr NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,425 Studio",
+      "$1,510+ 1 bd",
+      "$2,425+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISjvzjttrvplbr0000000000.jpg"
+  },
+  {
+    "Address": "Camden Brookwood | 147 26th St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,229+ Studio",
+      "$1,289+ 1 bd",
+      "$1,839+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Camden Midtown Atlanta | 265 Ponce De Leon Ave NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,259+ Studio",
+      "$1,389+ 1 bd",
+      "$1,949+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Sutton | 2965 Peachtree Rd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$4,010+ 2 bds",
+      "$5,325+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Savannah Midtown | 215 North Ave NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,210+ 1 bd",
+      "$1,790+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "516 Fairlane Cir NW, Atlanta, GA 30331",
+    "Price": "$1,200/mo",
+    "Details": [
+      "4 bds",
+      "2 ba",
+      "1,065 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Windsor at Midtown | 222 14th St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,595+ 1 bd",
+      "$2,160+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Uptown Buckhead | 3707 Roswell Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,135+ 1 bd",
+      "$1,560 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Camden Vantage | 180 Jackson St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,269+ 1 bd",
+      "$1,679+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "AMLI Buckhead | 3450 Roxboro Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,452+ 1 bd",
+      "$2,119+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "AMLI Lenox | 3478 Lakeside Dr NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,806+ 1 bd",
+      "$2,448+ 2 bds",
+      "$3,894+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "AMLI Parkside | 660 Ralph Mcgill Blvd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,405+ Studio",
+      "$1,525+ 1 bd",
+      "$1,969+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "851 Cardova Dr NE, Atlanta, GA 30324",
+    "Price": "$2,400/mo",
+    "Details": [
+      "3 bds",
+      "2 ba",
+      "1,800 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "789 Barnett St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,500 Studio",
+      "$3,600 4 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "824 Edgewood Ave NE, Atlanta, GA 30307",
+    "Price": "$1,500/mo",
+    "Details": [
+      "1 bd",
+      "1 ba",
+      "1,000 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Exchange | 470 16th St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,302+ 1 bd",
+      "$1,553+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "850 Flat Shoals Way SE, Atlanta, GA 30316",
+    "Price": "$1,650/mo",
+    "Details": [
+      "2 bds",
+      "1 ba",
+      "1,050 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "2059 Howell Mill Rd NW, Atlanta, GA 30318",
+    "Price": "$4,200/mo",
+    "Details": [
+      "4 bds",
+      "3.5 ba",
+      "2,697 sqft"
+    ],
+    "Images": "NA"
+  },
+  {
+    "Address": "Piedmont House | 205 12th St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$2,449+ 1 bd",
+      "$3,182+ 2 bds",
+      "$7,596+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Berkeley Heights | 1700 Northside Dr NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,195+ Studio",
+      "$1,190+ 1 bd",
+      "$1,555+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Hanover Buckhead Village | 3150 Roswell Rd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,654+ Studio",
+      "$1,659+ 1 bd",
+      "$2,027+ 2 bds",
+      "$6,851+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "1045 on The Park | 1045 Piedmont Ave NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,890 1 bd",
+      "$2,192+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Gramercy At Buckhead | 3315 Roswell Rd, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,205+ 1 bd",
+      "$1,520+ 2 bds",
+      "$1,945+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Haynes House | 2420 Peachtree Rd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,367+ Studio",
+      "$1,342+ 1 bd",
+      "$2,185+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Ascent Midtown | 1400 W Peachtree St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,765+ Studio",
+      "$2,095+ 1 bd",
+      "$2,209+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Allure at Brookwood | 40 Peachtree Valley Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,148+ Studio",
+      "$1,158+ 1 bd",
+      "$1,503+ 2 bds",
+      "$2,153 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Post Riverside | 4403 Northside Pkwy, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,190+ Studio",
+      "$1,195+ 1 bd",
+      "$1,610+ 2 bds",
+      "$2,225+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Post Peachtree Hills | 350 Peachtree Hills Ave NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,165+ 1 bd",
+      "$1,490+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Ashley Gables Buckhead | 530 E Paces Ferry Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,571+ Studio",
+      "$1,721+ 1 bd",
+      "$2,509+ 2 bds",
+      "$4,295+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Point At Westside | 370 Northside Dr NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,190+ 1 bd",
+      "$1,427+ 2 bds",
+      "$1,625+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Peachtree St NE, Atlanta, GA 30308",
+    "Price": "$2,400/mo",
+    "Details": [
+      "2 bds",
+      "2 ba",
+      "1,200 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Platform Apartments | 290 Martin Luther King Jr Dr SE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,235+ Studio",
+      "$1,340+ 1 bd",
+      "$1,835+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Platform Apartments | 290 Martin Luther King Jr Dr SE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,235+ Studio",
+      "$1,340+ 1 bd",
+      "$1,835+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISappdujfvnw9r1000000000.jpg"
+  },
+  {
+    "Address": "Cyan On Peachtree | 3380 Peachtree Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,369+ Studio",
+      "$1,509+ 1 bd",
+      "$1,701+ 2 bds",
+      "$3,252 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISn67wd5bqitng0000000000.jpg"
+  },
+  {
+    "Address": "2564 Defoors Ferry Rd NW, Atlanta, GA 30318",
+    "Price": "$1,800/mo",
+    "Details": [
+      "3 bds",
+      "1.5 ba",
+      "1,125 sqft"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISrxuvbdpetcm80000000000.jpg"
+  },
+  {
+    "Address": "05 Buckhead | 3242 Peachtree Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,490+ Studio",
+      "$1,877+ 1 bd",
+      "$2,347+ 2 bds",
+      "$4,225+ 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISr5hyik9b9k7i0000000000.jpg"
+  },
+  {
+    "Address": "Camden Paces | 77 E Andrews Dr NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,299+ 1 bd",
+      "$2,169+ 2 bds",
+      "$4,269+ 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISybrc4h49j1130000000000.jpg"
+  },
+  {
+    "Address": "Cumberland Rd NE, Atlanta, GA 30306",
+    "Price": "$6,500/mo",
+    "Details": [
+      "3 bds",
+      "4 ba",
+      "3,913 sqft"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/IS3zrbrkhnrtm61000000000.jpg"
+  },
+  {
+    "Address": "Ayla | 44 Krog St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,455+ Studio",
+      "$1,626+ 1 bd",
+      "$2,287+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/IS3rdbfh1swvfg1000000000.jpg"
+  },
+  {
+    "Address": "Glenwood at Grant Park | 860 Glenwood Ave SE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,325+ Studio",
+      "$1,460+ 1 bd",
+      "$1,910+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISmigv4lamfrne1000000000.jpg"
+  },
+  {
+    "Address": "The Irby | 65 Irby Ave, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,545+ Studio",
+      "$1,660+ 1 bd",
+      "$2,930+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISbhnq0tbl3bv41000000000.jpg"
+  },
+  {
+    "Address": "Gables Midtown | 1925 Monroe Dr NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,290+ 1 bd",
+      "$1,590+ 2 bds",
+      "$2,822 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Gables 820 West | 820 W Marietta St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,135+ 1 bd",
+      "$1,435+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Camden Fourth Ward | 477 Wilmer St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,329+ 1 bd",
+      "$2,349+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "2460 Peachtree at Peachtree Battle | 2460 Peachtree Rd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,465+ 1 bd",
+      "$1,600+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "1144 Regis Rd SE, Atlanta, GA 30315",
+    "Price": "$1,150/mo",
+    "Details": [
+      "3 bds",
+      "1 ba",
+      "1,430 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "267 Ralph David Abernathy Blvd SW, Atlanta, GA 30312",
+    "Price": "$1,550/mo",
+    "Details": [
+      "3 bds",
+      "2.5 ba",
+      "1,600 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "639 Cassanova St SE, Atlanta, GA 30315",
+    "Price": "$1,550/mo",
+    "Details": [
+      "3 bds",
+      "2 ba",
+      "1,300 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Post Parkside Atlanta | 250 10th St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,220+ Studio",
+      "$1,540+ 1 bd",
+      "$1,955+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "865 Fox St NW #1, Atlanta, GA 30318",
+    "Price": "$1,180/mo",
+    "Details": [
+      "2 bds",
+      "1 ba",
+      "-- sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "61 Weatherby St SE, Atlanta, GA 30316",
+    "Price": "$3,950/mo",
+    "Details": [
+      "4 bds",
+      "3 ba",
+      "2,390 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "West Inman Lofts | 626 Dekalb Ave SE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,293+ 1 bd",
+      "$1,781+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "77 12th Street | 77 12th St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,548+ Studio",
+      "$1,635+ 1 bd",
+      "$2,599+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "AMLI Arts Center | 1240 W Peachtree St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,824+ Studio",
+      "$1,891+ 1 bd",
+      "$2,404+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "CB Lofts | 2430 Cheshire Bridge Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,076+ 1 bd",
+      "$1,523+ 2 bds",
+      "$1,713 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "430 Lindbergh Dr NE APT G3, Atlanta, GA 30305",
+    "Price": "$1,750/mo",
+    "Details": [
+      "2 bds",
+      "1.5 ba",
+      "1,188 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Post Stratford | 3400 Stratford Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,215+ Studio",
+      "$1,265+ 1 bd",
+      "$1,595+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Inman Quarter Residences | 299 N Highland Ave NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,590+ Studio",
+      "$1,879+ 1 bd",
+      "$2,395+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The George & The Leonard | 275 Memorial Dr SE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,194+ 1 bd",
+      "$1,555+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Hanover West Peachtree | 1010 W Peachtree St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,348+ 1 bd",
+      "$1,749+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "1837 Volberg St NW, Atlanta, GA 30318",
+    "Price": "$1,695/mo",
+    "Details": [
+      "1 bd",
+      "1 ba",
+      "650 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Post Gardens | 1020 Lenox Park Blvd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,115+ 1 bd",
+      "$1,340+ 2 bds",
+      "$1,725+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "95 Vine St NW, Atlanta, GA 30314",
+    "Price": "$1,100/mo",
+    "Details": [
+      "3 bds",
+      "1 ba",
+      "1,100 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Rocca | 3280 Northside Pkwy NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,320+ Studio",
+      "$1,215+ 1 bd",
+      "$1,784+ 2 bds",
+      "$2,710+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Highland View Apartments | 784 Ponce De Leon Ter NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,225+ Studio",
+      "$1,525+ 1 bd",
+      "$1,725+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Lumen Grant Park | 465 Memorial Dr SE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,216+ Studio",
+      "$1,486+ 1 bd",
+      "$2,144+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "620 Glen Iris Dr NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,400+ 1 bd",
+      "$3,850 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Residences at Chastain | 4011 Roswell Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,323+ 1 bd",
+      "$2,061+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Monroe | 222 Colonial Homes Dr NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,495+ 1 bd",
+      "$1,990+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "1824 Defoor | 1824 Defoor Ave NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,460+ 1 bd",
+      "$1,795+ 2 bds",
+      "$2,785+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Anthem on Ashley | 720 Ralph Mcgill Blvd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,443+ 1 bd",
+      "$2,200+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Bryant at Buckhead Village | 400 Pharr Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,238+ Studio",
+      "$1,516+ 1 bd",
+      "$1,977+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Avana on Main | 508 Main St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,035+ Studio",
+      "$1,163+ 1 bd",
+      "$1,364+ 2 bds",
+      "$1,961+ 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/IS37u67yvimr270000000000.jpg"
+  },
+  {
+    "Address": "Broadstone Midtown | 811 Juniper St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,360+ 1 bd",
+      "$2,183+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISme1lf527p28k1000000000.jpg"
+  },
+  {
+    "Address": "Camden Buckhead Square | 3097 Maple Dr NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,249+ Studio",
+      "$1,259+ 1 bd",
+      "$1,849 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISj3a105y7ma9h1000000000.jpg"
+  },
+  {
+    "Address": "Mezzo Apartments | 2171 Peachtree Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$2,569+ 2 bds",
+      "$4,960 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISf019styzk6k01000000000.jpg"
+  },
+  {
+    "Address": "Overture Buckhead South 55+ Apartment Homes | 658 Lindbergh Dr, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,750+ 1 bd",
+      "$2,600+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISr9kn39l5r7im1000000000.jpg"
+  },
+  {
+    "Address": "Elan Madison Yards | 230 Bill Kennedy Way SE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,335+ Studio",
+      "$1,570+ 1 bd",
+      "$2,125+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/IS37qfzy0gmq5j0000000000.jpg"
+  },
+  {
+    "Address": "Tremont Apartments | 3645 Habersham Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,494+ 1 bd",
+      "$1,732+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISir456cu4m2bc1000000000.jpg"
+  },
+  {
+    "Address": "ATL's New Community- Newbergh ATL | 761 Morosgo Dr NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,455+ 1 bd",
+      "$2,070+ 2 bds",
+      "$2,910 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISz78fihjboabp0000000000.jpg"
+  },
+  {
+    "Address": "1550 Olympian Cir SW #A, Atlanta, GA 30310",
+    "Price": "$1,300/mo",
+    "Details": [
+      "2 bds",
+      "1 ba",
+      "-- sqft"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISvcl9t77e2bjm0000000000.jpg"
+  },
+  {
+    "Address": "683 Edgewood Ave NE, Atlanta, GA 30307",
+    "Price": "$4,000/mo",
+    "Details": [
+      "3 bds",
+      "2.5 ba",
+      "2,640 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Studioplex On Auburn | 659 Auburn Ave NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$2,150+ 1 bd"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "2030 Defoor Ave NW #D09, Atlanta, GA 30318",
+    "Price": "$1,095/mo",
+    "Details": [
+      "1 bd",
+      "1 ba",
+      "780 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "AMLI Ponce Park | 641 N Ave Ne, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,555+ 1 bd",
+      "$2,230+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Peachtree Walk | 1074 Peachtree Walk NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,530 1 bd",
+      "$2,000+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Modera Midtown | 95 8th St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,645+ Studio",
+      "$1,725+ 1 bd",
+      "$2,250+ 2 bds",
+      "$3,685 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "120 Ralph Mcgill Blvd NE APT 206, Atlanta, GA 30308",
+    "Price": "$1,750/mo",
+    "Details": [
+      "1 bd",
+      "1 ba",
+      "1,023 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "825 Beckwith St SW #B, Atlanta, GA 30314",
+    "Price": "$1,850/mo",
+    "Details": [
+      "3 bds",
+      "1.5 ba",
+      "1,429 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "939 Redford Dr SE, Atlanta, GA 30315",
+    "Price": "$1,275/mo",
+    "Details": [
+      "3 bds",
+      "2 ba",
+      "1,000 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Post Centennial Park | 305 Centennial Olympic Park Dr, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,260+ Studio",
+      "$1,300+ 1 bd",
+      "$1,980+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "88 Lucy St SE APT A, Atlanta, GA 30312",
+    "Price": "$2,500/mo",
+    "Details": [
+      "3 bds",
+      "2 ba",
+      "1,360 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Alexan on 8th | 880 W Peachtree St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,790+ Studio",
+      "$2,005+ 1 bd",
+      "$2,755+ 2 bds",
+      "$3,800+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Mayfair Tower Condominiums | 199 14th St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,400+ 1 bd",
+      "$2,100+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "4049 Princeton Lakes Pass SW, Atlanta, GA 30331",
+    "Price": "$1,895/mo",
+    "Details": [
+      "3 bds",
+      "2.5 ba",
+      "1,992 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "1634 S Ponce De Leon Ave NE UNIT 501, Atlanta, GA 30307",
+    "Price": "$2,400/mo",
+    "Details": [
+      "3 bds",
+      "2.5 ba",
+      "1,800 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Element at Kirkwood | 2035 Memorial Dr SE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,169+ 1 bd",
+      "$1,369+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "1401 West Paces | 1401 W Paces Ferry Rd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,118+ 1 bd",
+      "$1,255+ 2 bds",
+      "$1,764+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Alta Dairies | 777 Memorial Dr SE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,355+ Studio",
+      "$1,650+ 1 bd",
+      "$2,199+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Post Alexander | 600 Phipps Blvd, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,145+ Studio",
+      "$1,355+ 1 bd",
+      "$1,750+ 2 bds",
+      "$2,520 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "860 Peachtree St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,800+ 1 bd"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "437 Park Ave SE #B, Atlanta, GA 30312",
+    "Price": "$2,000/mo",
+    "Details": [
+      "3 bds",
+      "2 ba",
+      "1,200 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Highland Walk Apartments | 701 Highland Ave NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,413+ Studio",
+      "$1,515+ 1 bd",
+      "$2,034+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Vesta Adams Park | 1991 Delowe Dr SW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$865+ 1 bd",
+      "$980+ 2 bds",
+      "$1,235+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "YOO on The Park | 207 13th St NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,640+ Studio",
+      "$1,964+ 1 bd",
+      "$3,130+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Monroe Place Apartments | 2000 Monroe Pl NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,125+ Studio",
+      "$1,265+ 1 bd",
+      "$1,580+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Marquis at Buckhead | 214 Colonial Homes Dr NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,333+ 1 bd",
+      "$1,780+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Local on 14th | 455 14th St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,290+ Studio",
+      "$1,475+ 1 bd",
+      "$1,880+ 2 bds",
+      "$2,470+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "2111 Defoors Ferry Rd NW APT D, Atlanta, GA 30318",
+    "Price": "$1,445/mo",
+    "Details": [
+      "2 bds",
+      "2 ba",
+      "1,245 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Brady | 930 Howell Mill Rd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,280+ Studio",
+      "$1,399+ 1 bd",
+      "$1,715+ 2 bds",
+      "$2,950+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Ashford at Spring Lake | 6200 Bakers Ferry Rd SW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,080 1 bd",
+      "$1,120+ 2 bds",
+      "$1,290+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Collier Ridge | 100 Noble Creek Dr NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,310+ 2 bds",
+      "$1,703+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Collier Ridge | 100 Noble Creek Dr NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,310+ 2 bds",
+      "$1,703+ 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISv0ofqn4u6cgi0000000000.jpg"
+  },
+  {
+    "Address": "1268 Liberty Pkwy NW, Atlanta, GA 30318",
+    "Price": "$2,000/mo",
+    "Details": [
+      "3 bds",
+      "3.5 ba",
+      "1,600 sqft"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/IS72l3cpuwopzk1000000000.jpg"
+  },
+  {
+    "Address": "651 Ormewood Ave SE, Atlanta, GA 30312",
+    "Price": "$3,200/mo",
+    "Details": [
+      "2 bds",
+      "2 ba",
+      "1,486 sqft"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISnqyyxe6u2hgs1000000000.jpg"
+  },
+  {
+    "Address": "AMLI Piedmont Heights | 2323 Piedmont Rd, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,390+ 1 bd",
+      "$1,869+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISvoecsjavrn060000000000.jpg"
+  },
+  {
+    "Address": "The Brady | 930 Howell Mill Rd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,280+ Studio",
+      "$1,399+ 1 bd",
+      "$1,715+ 2 bds",
+      "$2,950+ 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/IS66occriks1rg1000000000.jpg"
+  },
+  {
+    "Address": "Core At Lindbergh | 741 Morosgo Dr NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,119+ Studio",
+      "$1,222+ 1 bd",
+      "$1,703+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISfojzz7vn84ol1000000000.jpg"
+  },
+  {
+    "Address": "The Row at Twenty Sixth Apartments | 225 26th St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,184+ Studio",
+      "$1,254+ 1 bd",
+      "$1,450+ 2 bds",
+      "$2,310 3 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISny4x64xm5vtc0000000000.jpg"
+  },
+  {
+    "Address": "642 Providence Pl SW, Atlanta, GA 30331",
+    "Price": "$1,600/mo",
+    "Details": [
+      "3 bds",
+      "3.5 ba",
+      "1,555 sqft"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISf40nxvg4azde1000000000.jpg"
+  },
+  {
+    "Address": "AMLI Westside | 1084 Howell Mill Rd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,270+ Studio",
+      "$1,501+ 1 bd",
+      "$1,927+ 2 bds"
+    ],
+    "Images": "https://photos.zillowstatic.com/p_e/ISzfmv2adkzw4h0000000000.jpg"
+  },
+  {
+    "Address": "AMLI Lindbergh | 2400 Parkland Dr, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,236+ 1 bd",
+      "$1,529+ 2 bds",
+      "$2,090+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "585 Mcwilliams Rd SE UNIT 1901, Atlanta, GA 30315",
+    "Price": "$2,000/mo",
+    "Details": [
+      "4 bds",
+      "2 ba",
+      "1,800 sqft"
+    ],
+    "Images": "NA"
+  },
+  {
+    "Address": "585 Mcwilliams Rd SE UNIT 2702, Atlanta, GA 30315",
+    "Price": "$1,350/mo",
+    "Details": [
+      "2 bds",
+      "1 ba",
+      "1,548 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "2573 Abner Pl NW, Atlanta, GA 30318",
+    "Price": "$2,100/mo",
+    "Details": [
+      "3 bds",
+      "2 ba",
+      "1,200 sqft"
+    ],
+    "Images": "NA"
+  },
+  {
+    "Address": "1639 Orlando St SW, Atlanta, GA 30311",
+    "Price": "$1,400/mo",
+    "Details": [
+      "3 bds",
+      "2 ba",
+      "1,100 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "300 Peachtree St NW #21B, Atlanta, GA 30308",
+    "Price": "$1,295/mo",
+    "Details": [
+      "1 bd",
+      "1 ba",
+      "700 sqft"
+    ],
+    "Images": "NA"
+  },
+  {
+    "Address": "467 Leonardo Ave NE, Atlanta, GA 30307",
+    "Price": "$2,950/mo",
+    "Details": [
+      "3 bds",
+      "2 ba",
+      "2,000 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "3566 Highwood Dr SW, Atlanta, GA 30331",
+    "Price": "$1,295/mo",
+    "Details": [
+      "3 bds",
+      "1.5 ba",
+      "1,075 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Ansley Forest | 1659 Monroe Dr NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,270 Studio",
+      "$1,765+ 2 bds",
+      "$2,735 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Radius West Midtown | 464 Bishop St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,310+ 1 bd",
+      "$1,850+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Crest at Northside | 499 Northside Cir NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,000+ Studio",
+      "$1,070+ 1 bd",
+      "$1,285+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Windsor Old Fourth Ward | 608 Ralph Mcgill Blvd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,495+ Studio",
+      "$1,715+ 1 bd",
+      "$2,295+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "974 Todd Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,695 1 bd",
+      "$2,280 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Wesley Townsend | 200 Colonial Homes Dr NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,408+ 1 bd",
+      "$1,666+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Morningside Atlanta by Windsor | 1845 Piedmont Ave NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,465+ 1 bd",
+      "$1,665+ 2 bds",
+      "$2,485+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Virginia Highlands Apartment Homes | 609 Virginia Ave NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,445+ 1 bd",
+      "$1,866+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Post Chastain | 4090 Roswell Rd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,040+ Studio",
+      "$1,190+ 1 bd",
+      "$1,325+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "1257 Lorenzo Dr SW #A, Atlanta, GA 30310",
+    "Price": "$895/mo",
+    "Details": [
+      "2 bds",
+      "1 ba",
+      "1,000 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Aspire Lenox Park | 1050 Lenox Park Blvd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,260+ 1 bd",
+      "$1,623+ 2 bds",
+      "$2,034+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Cottonwood Westside | 691 14th St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,225+ Studio",
+      "$1,215+ 1 bd",
+      "$1,675+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Eleven85 | 1185 Collier Rd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,262 Studio",
+      "$1,396+ 1 bd",
+      "$1,577+ 2 bds",
+      "$1,700+ 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Ashford 2788 | 2788 Defoors Ferry Rd NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,085+ 2 bds",
+      "$1,785 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Telephone Factory Lofts | 828 Ralph Mcgill Blvd NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$2,550+ Studio",
+      "$2,825 1 bd",
+      "$3,150 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "N. Highland Steel | 240 N Highland Ave NE, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$1,294+ Studio",
+      "$1,456+ 1 bd",
+      "$1,951+ 2 bds",
+      "$3,077 3 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Saint Charles Ave NE, Atlanta, GA 30306",
+    "Price": "$1,200/mo",
+    "Details": [
+      "1 bd",
+      "1 ba",
+      "650 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "Lynch Ave NW, Atlanta, GA 30318",
+    "Price": "$2,950/mo",
+    "Details": [
+      "3 bds",
+      "1.5 ba",
+      "1,060 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "356 Schoen St SE, Atlanta, GA 30315",
+    "Price": "$1,395/mo",
+    "Details": [
+      "4 bds",
+      "2 ba",
+      "1,646 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "2019 Reynolds Dr SW, Atlanta, GA 30315",
+    "Price": "$1,325/mo",
+    "Details": [
+      "4 bds",
+      "2.5 ba",
+      "1,572 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "1019 Crane Rd NE, Atlanta, GA 30324",
+    "Price": "$3,500/mo",
+    "Details": [
+      "4 bds",
+      "4 ba",
+      "2,474 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "745 Fountainhead Ln NE, Atlanta, GA 30324",
+    "Price": "$2,995/mo",
+    "Details": [
+      "4 bds",
+      "3.5 ba",
+      "2,750 sqft"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  },
+  {
+    "Address": "The Atlantic | 270 17th St NW, Atlanta, GA",
+    "Price": "as per size in the details",
+    "Details": [
+      "$2,900 1 bd",
+      "$3,200+ 2 bds"
+    ],
+    "Images": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  }
+]
